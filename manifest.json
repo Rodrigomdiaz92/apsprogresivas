@@ -1,0 +1,28 @@
+{
+    "name": "Frutivendolo",
+    "short_name": "Frutivendo",
+    "description": "Tienda de Ecommerce de comestibles",
+    "start_url": "/",
+    "background_color": "#3367D6",
+    "theme_color": "#3367D6",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "icons": [
+        {
+            "src": "/images/fruit-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        },
+        {
+            "src": "/images/fruit-256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "/images/fruit-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
